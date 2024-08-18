@@ -9,8 +9,8 @@ python github_user_activity.py <username>
 ## How it works
 ### The tool uses the GitHub API to fetch the user's activity. It sends a GET request to https://api.github.com/users/<username>/events and parses the response as JSON. The activity is then displayed in a simple format.
 ## Requirements
-1- Python 3.x
-2- requests library (install with pip install requests)
+### 1- Python 3.x
+### 2- requests library (install with pip install requests)
 ## License
 ### This code is released under the MIT License. See LICENSE file for details.
 
